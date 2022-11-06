@@ -1,2 +1,2 @@
-# PH002
-Thực hành nhập môn mạch số
+# CE119
+Thực hành Kiến Trúc Máy Tính
